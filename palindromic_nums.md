@@ -71,7 +71,7 @@ def get_palindromes(length of final array)
 end  
 
 ## Write out any implementation code OR link to repl
-
+I appear to have cracked it:  
 [https://github.com/LHJE/palindrome](https://github.com/LHJE/palindrome)
 
 ## What is the Big O complexity of your solution?
