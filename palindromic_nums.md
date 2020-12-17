@@ -57,17 +57,17 @@ Likely there will be a pattern that emerges, but I'm not sure what that is until
 ## Write out a few lines of initial pseudocode: (mid-level design, NOT REAL CODE)
 
 def get_palindromes(length of final array)  
-  making an empty array to eventually return aka return_array  
-  line of code that allows me to iterate over an infinite array of sequential numbers starting with 109.  
-    conditional asking if return_array has 25 entries, if so:  
-      break  
-    elsif stating that if the number added to its reverse equals a palindrome, then:  
-      shovel that number into the return_array  
-    else  
-      next  
-    end  
-  end  
-  return return_array  
+  - making an empty array to eventually return aka return_array  
+  - line of code that allows me to iterate over an infinite array of sequential numbers starting with 109.  
+    - conditional asking if return_array has 25 entries, if so:  
+      - break  
+    - elsif stating that if the number added to its reverse equals a palindrome, then:  
+      - shovel that number into the return_array  
+    - else  
+      - next  
+    - end  
+  - end  
+  - return return_array  
 end  
 
 ## Write out any implementation code OR link to repl
