@@ -74,19 +74,19 @@ Frankly I'm not sure if "Searching/Sorting of Data" is the right word for it, bu
 
 ## Write out a few lines of initial pseudocode: (mid-level design, NOT REAL CODE)
 
-def array_flattener(array)
- new_array that elements might be shoveled into?
- iterate over the array
-  if conditional asking if this is an array?
-   (this is where the recusive part is.  Maybe this iteration thing can be a helper method?  or the if conditional?  Let's get some real code going now)
-  else
-   shovel the element into the new array
-  end conditional
- end iteration
+ - def array_flattener(array)
+  - new_array that elements might be shoveled into?
+  - iterate over the array
+   - if conditional asking if this is an array?
+    - (this is where the recusive part is.  Maybe this iteration thing can be a helper method?  or the if conditional?  Let's get some real code going now)
+   - else
+    - shovel the element into the new array
+   - end conditional
+  - end iteration
 
 
- return the new_array
-end
+  - return the new_array
+ - end
 
 
 ## Write out any implementation code OR link to repl  
